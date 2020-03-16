@@ -1,0 +1,75 @@
+body{
+    background-image: url(https://media.gettyimages.com/videos/hexagonal-gray-background-video-id526112961?s=640x640);
+    background-repeat: no-repeat; background-size: cover;
+    width: auto;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+{
+    box-sizing: border-box;
+  }
+
+  .box {
+    display: flex;
+    align-items: flex-end;
+
+  }
+
+  .box > div {
+    background-color: aquamarine;
+    width: 150px;
+    margin: 2px;
+    text-align: center;
+    height: 150px;
+    font-size: 16px;
+   
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .button {
+    background-color: yellow;
+    border: none;
+    color:black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {border-radius: 2px;
+}

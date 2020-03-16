@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://media.gettyimages.com/videos/hexagonal-gray-background-video-id526112961?s=640x640);
+    background-repeat: no-repeat; background-size: cover;
+    width: auto;
+
+}
+
+.grid-wrapper {
+    display: grid;
+}
+
+.flex-container {
+    
+    
+    height: 100%;
+    text-align: left;
+    padding: 40px 30px;
+    background-color: aqua;
+}
